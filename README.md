@@ -3,6 +3,7 @@
 Predicts where a moving object will be, using a Hidden Markov Model and the forward algorithm on noisy 3D location reports. Plain Python, no libraries.
 
 ## 📘 Start here: [Tutorial (PDF)](checkpoint/HMM_Predictor_Tutorial.pdf)
+^Note: There are already test cases, etc, generated for you in the repo
 
 ## Documentation
 
